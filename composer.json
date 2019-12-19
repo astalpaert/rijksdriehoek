@@ -1,29 +1,29 @@
 {
-    "name": "arnostalpaert/rijksdriehoek",
-    "description": "Transform Dutch National Grid coordinate system to WGS84 Coordinates",
-    "authors": [
-        {
-            "name": "Arno Stalpaert",
-            "email": "info@arnostalpaert.be"
-        }
-    ],
-    "homepage": "https://github.com/astalpaert/rijksdriehoek",
-    "require": {
-        "php": "^7.2"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^7"
-    },
-    "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    },
-    "scripts": {
-        "test": "vendor/bin/phpunit tests/Rijksdriehoektest.php",
-        "test-coverage": "vendor/bin/phpunit tests/Rijksdriehoektest.php --coverage-html coverage"
-    },
-    "config": {
-        "sort-packages": true
+  "name": "arnostalpaert/rijksdriehoek",
+  "description": "Transform Dutch National Grid coordinate system to WGS84 Coordinates",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Arno Stalpaert",
+      "email": "info@arnostalpaert.be"
     }
+  ],
+  "homepage": "https://github.com/astalpaert/rijksdriehoek",
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit tests/Rijksdriehoektest.php",
+  },
+  "config": {
+    "sort-packages": true
+  }
 }

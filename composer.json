@@ -1,0 +1,11 @@
+{
+    "name": "arnostalpaert/rijksdriehoek",
+    "description": "Transform Dutch National Grid coordinate system to WGS84 Coordinates",
+    "authors": [
+        {
+            "name": "astalpaert",
+            "email": "arno.stalpaert@hotmail.com"
+        }
+    ],
+    "require": {}
+}

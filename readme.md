@@ -4,6 +4,7 @@ Based on formula from: https://github.com/djvanderlaan/rijksdriehoek
 
 
 ## Installation
+* composer require arnostalpaert/rijksdriehoek
 * composer install
 
 ## Usage

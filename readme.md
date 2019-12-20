@@ -4,7 +4,6 @@ Based on formula from: https://github.com/djvanderlaan/rijksdriehoek
 
 
 ## Installation
-* git clone git@github.com:astalpaert/rijksdriehoek.git
 * composer install
 
 ## Usage
